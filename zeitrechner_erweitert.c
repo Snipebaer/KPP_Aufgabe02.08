@@ -29,13 +29,10 @@ int main()
 
     // Ausgabe
 
-        printf("Tage: %d\n", anzahlTage);
-        printf("Stunden: %d\n", anzahlStunden);
-        printf("Minuten: %d\n", anzahlMinuten);
+        printf("Tage    : %d\n", anzahlTage);
+        printf("Stunden : %d\n", anzahlStunden);
+        printf("Minuten : %d\n", anzahlMinuten);
         printf("Sekunden: %d\n", anzahlSekunden);
 
     return 0;
-
-    
-
 }
